@@ -5,3 +5,4 @@ In this project our model will predict output as a person have any heart disease
 
 # Tool Use
 <h3> Pandas</h3>
+<img src="pandas.jpeg"><br>
