@@ -13,14 +13,15 @@ In this project our model will predict output as a person have any heart disease
 
 # Requriemnts/Libraries
 <tr>
-    <td>pip installPandas</td>
-    <td>pip install numpy</td>
-    <td>pip install sklearn</td>
-    <td>pip install matplotlib</td>
-    <td>pip install streamlit</td>
-     <td>pip install pillow</td>
-  </tr>
-  #Run the Application
+    <td>pip installPandas</td><br>
+    <td>pip install numpy</td><br>
+    <td>pip install sklearn</td><br>
+    <td>pip install matplotlib</td><br>
+    <td>pip install streamlit</td><br>
+     <td>pip install pillow</td><br>
+  </tr><br>
+  
+  # Run the Application
   <tr> streamlin run app.py </tr>
   
 
