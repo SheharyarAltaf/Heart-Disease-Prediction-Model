@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction-Model
 In this project our model will predict output as a person have any heart disease or not and their accuracy level. <br>
-
+we Use kaggle dataset for our model.
 <img src="img.jpg"><br>
 
 # Tool Use
