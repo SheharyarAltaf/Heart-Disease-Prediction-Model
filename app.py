@@ -5,7 +5,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 from PIL import Image
 import streamlit as st
-
+# importing neccssary libraries 
 df=pd.read_csv('heart_disease_data.csv')
 df.head()
 
